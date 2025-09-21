@@ -1,24 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Support — Tono Apps</title>
-</head>
-<body>
-  <h2 style="text-align: center;"><strong>Support — Tono Apps</strong></h2>
-  <p>This page provides support information from the independent development team - Tono Apps.</p>
-
-  <h2>How to contact us</h2>
-  <p>You can reach our support by email:
-    <a href="mailto:tonokids.studio@gmail.com">tonokids.studio@gmail.com</a>
-  </p>
-
-  <h2>How to request help:</h2>
-  <ol>
-    <li>Send us an email with subject "Support Request".</li>
-    <li>Include the app name and describe your issue.</li>
-    <li>We will respond with an answer as soon as possible.</li>
-  </ol>
-</body>
-</html>
+<p><strong>Support &mdash; Tono Apps</strong></p>
+<p>This page provides support information from the independent development team - Tono Apps.</p>
+<p><strong>How to contact us</strong></p>
+<p>You can reach our support by email:&nbsp;<a href="mailto:tonokids.studio@gmail.com">tonokids.studio@gmail.com</a></p>
+<p><strong>How to request help:</strong></p>
+<ol>
+<li>Send us an email with subject "Support Request".</li>
+<li>Include the app name&nbsp;and describe your issue.</li>
+<li>We&nbsp;will respond&nbsp;an answer as soon as possible.</li>
+</ol>
